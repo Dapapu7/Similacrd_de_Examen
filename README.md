@@ -1,5 +1,5 @@
 # Mi repo mola con sus txt.
-> git clone https://github.com/Dapapu7/Similacrd_de_Examen.git
+" git clone https://github.com/Dapapu7/Similacrd_de_Examen.git
   130  ls
   131  cd Similacrd_de_Examen
   132  nano
@@ -56,6 +56,6 @@
   183  git checkout rama1
   184  git push
   185   git push --set-upstream origin rama1
-  186  history
+  186  history "
 
 Esto esta hecho para [Campus IFP](https://campus.ifp.es/)
